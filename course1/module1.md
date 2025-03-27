@@ -5,12 +5,12 @@
 ## Table of Contents
 - [Objective](#objective)
 - [Topics and Content Breakdown](#topics-and-content-breakdown)
-  - [1. Introduction to Python](#1-introduction-to-python-what-it-is-and-why-its-great-for-data-analytics-30-minutes-)
-  - [2. Setting Up Your Environment](#2-setting-up-your-environment-python-notebook-options-and-local-install-30-minutes-)
-  - [3. Meeting Your AI Assistant](#3-meeting-your-ai-assistant-how-to-ask-for-code-examples-explanations-and-fixes-30-minutes-)
-  - [4. Basic Syntax](#4-basic-syntax-variables-printing-and-simple-operations-1-hour-)
-  - [5. Mini-Project](#5-mini-project-use-ai-to-write-a-script-that-analyzes-weekly-expenses-1-hour-30-minutes-)
-  - [6. Check Your Understanding](#6-check-your-understanding-module-1-review-15-minutes-)
+  - [1. Introduction to Python](#1-introduction-to-python-what-it-is-and-why-its-great-for-data-analytics-30-minutes)
+  - [2. Setting Up Your Environment](#2-setting-up-your-environment-python-notebook-options-and-local-install-30-minutes)
+  - [3. Meeting Your AI Assistant](#3-meeting-your-ai-assistant-how-to-ask-for-code-examples-explanations-and-fixes-30-minutes)
+  - [4. Basic Syntax](#4-basic-syntax-variables-printing-and-simple-operations-1-hour)
+  - [5. Mini-Project](#5-mini-project-use-ai-to-write-a-script-that-analyzes-weekly-expenses-1-hour-30-minutes)
+  - [6. Check Your Understanding](#6-check-your-understanding-module-1-review-15-minutes)
 - [Visual Learning Aids](#visual-learning-aids)
 - [Additional Resources](#additional-resources)
 
