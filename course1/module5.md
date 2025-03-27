@@ -10,7 +10,7 @@
   - [3. Linear Regression Basics](#3-linear-regression-basics-1-hour-)
   - [4. AI-Assisted Predictive Modeling](#4-ai-assisted-predictive-modeling-1-hour-)
   - [5. Final Project: Sales Prediction Implementation](#5-final-project-sales-prediction-implementation-1-hour-30-minutes-)
-  - [6. Check Your Understanding](#check-your-understanding)
+  - [6. Check Your Understanding](#6-check-your-understanding-module-5-review-15-minutes-)
 - [Visual Learning Aids](#visual-learning-aids)
 - [Additional Resources](#additional-resources)
 
