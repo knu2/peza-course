@@ -220,7 +220,7 @@ LIST                          DICTIONARY
 ├─────┼─────┼─────┼─────┤    ├─────────┼───────┤
 │ 100 │ 200 │ 150 │ 300 │    │"banana" │ 0.50  │
 └─────┴─────┴─────┴─────┘    ├─────────┼───────┤
-  Accessed by position        │"orange" │ 0.80  │
+  Accessed by position       │"orange" │ 0.80  │
   sales[2] → 150             └─────────┴───────┘
                                Accessed by key
                                prices["apple"] → 1.20
@@ -235,9 +235,9 @@ LIST                          DICTIONARY
                            │                   │
                            │                   │
                            ▼                   │
-                    ┌─────────────┐           │
-                    │ Any more    │ No        │
-                    │ items?      │◄──────────┘
+                    ┌─────────────┐            │
+                    │ Any more    │ No         │
+                    │ items?      │◄───────────┘
                     └─────────────┘
                            │
                            │ Yes
